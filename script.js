@@ -25,4 +25,4 @@ card.style.transition='opacity 2s';
 setTimeout(() => {
    card.style.opacity=1;
  },100); 
-}, );
+});
