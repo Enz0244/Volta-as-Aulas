@@ -15,7 +15,7 @@ document.querySelector.('card').appendChild(countdownElement);
 
 const image=document.querySelecto('img');
 image.addEventListener('click',()=>{
-    image.src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Fvolta-aulas&psig=AOvVaw1P8VKOCEXDb8T1DrVcPsx7&ust=1721904676803000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjB7_bAv4cDFQAAAAAdAAAAABAE'
+    image.src= voltaaulas.jpg;
 });
 
 const card=document.querySelector('.card');
